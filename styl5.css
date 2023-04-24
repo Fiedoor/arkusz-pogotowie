@@ -6,7 +6,7 @@ body {
     background-color: sienna;
     color: white;
     height: 150px;
-    /* display: inline-flex; */
+    float: left;
 }
 
 .left {
